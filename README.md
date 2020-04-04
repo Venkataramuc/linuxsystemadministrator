@@ -19,5 +19,7 @@ alias # to identify the list of alias commands configured with in a system.
 alias k=kubectl  # create a alias command for kubectl with k.   
 alias gp='git push' # create a alias for git push.   
 
-sudo !! # last command with sudo user.   
+sudo !! # last command with sudo user.       
+mkdir -p LOG/{CZ02,HU02}/{smauto,rmgw,switch,gui-server}. # create a sub folders in one shot   
+mkdir -p LOG/{1..100}/{1..50}. 
 
