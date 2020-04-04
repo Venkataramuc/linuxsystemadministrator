@@ -14,6 +14,8 @@ ls # show the list of files.
 
 ll # show the list of files.  
 
+ls -l * # to see the first set of sub folders
+
 alias # to identify the list of alias commands configured with in a system.   
 
 alias k=kubectl  # create a alias command for kubectl with k.   
