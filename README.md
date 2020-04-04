@@ -19,3 +19,5 @@ alias # to identify the list of alias commands configured with in a system.
 alias k=kubectl  # create a alias command for kubectl with k.   
 alias gp='git push' # create a alias for git push.   
 
+sudo !! # last command with sudo user.   
+
